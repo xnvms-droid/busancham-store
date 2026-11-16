@@ -7,6 +7,6 @@
  * POLL_MS : 화면 자동 갱신 간격(밀리초). 기본 4000 = 4초. 포스 화면은 최대 3초 간격으로 갱신됩니다.
  */
 window.APP_CONFIG = {
-  API_URL: '여기에_웹앱_주소',
+  API_URL: 'https://script.google.com/macros/s/AKfycbwGA9ysl0OcvhLSRs0Pf7p7G3BNFmyTsX_CAc4AzGPNEWGhqCLwQrSe_WZc4y04lIPG/exec',
   POLL_MS: 4000
 };
